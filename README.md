@@ -1,3 +1,3 @@
-# Algoritmos Target Systems
+# Algorithms Target Systems
 
 C Algorithms to Target Systems.
